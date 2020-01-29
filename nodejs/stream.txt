@@ -1,0 +1,225 @@
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+events.js:200
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: getaddrinfo ENOTFOUND 300.0.0.1
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+z
+^C       
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/
+request was made:/favicon.ico
+request was made:/
+request was made:/
+request was made:/
+request was made:/favicon.ico
+request was made:/favicon.ico
+request was made:/
+request was made:/sd
+request was made:/favicon.ico
+request was made:/sd
+^C
+aghiles@MacBook-Pro-de-Aghiles node % node clients
+Listening to port 3000
+request was made:/sd
+request was made:/sd
+request was made:/favicon.ico
+^C
+aghiles@MacBook-Pro-de-Aghiles node % 
