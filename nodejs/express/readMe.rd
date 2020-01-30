@@ -1,0 +1,3 @@
+
+npm : node pakage manager
+Express help us with routing, templates...
