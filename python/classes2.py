@@ -1,5 +1,6 @@
 # why use classes ( OOP ) : allow us tp group data and funtions and build on top of them with methods
-import unittest
+
+import datetime
 
 
 class Employee:
@@ -32,16 +33,16 @@ class Employee:
         first, last, pay = emp_str.split("-")
         return cls(first, last, pay)
 
+    @staticmethod  # static methods dont take self or cls as first argument
+    def is_workday(day):
+        if day.weekday() == 5 or day.weekday() == 6:
+            return False
+        return True
+
 
 emp1 = Employee("Aghiles", "Schafer", 40000)
 emp2 = Employee("moh", "lbilot", 100000)
 
+my_date = datetime.date(2016, 7, 11)
 
-Employee.set_raise_amt(1.05)
-print("upgrade employe 1: ", emp1.RAISE_AMOUNT)
-print("upgrade employe 2: ", emp2.RAISE_AMOUNT)
-print("num of employee: ", Employee.num_employes)
-
-emp3 = Employee.from_string("aghiles-aitlounis-100000")
-
-print("test: ", emp3.pay, emp3.first)
+print(Employee.is_workday(my_date))
