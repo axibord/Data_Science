@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/assets/styles.css", type="text/css">
+    <title>MyappContact</title>
+</head>
+<body>
+    <%- include ('partials/nav') %>
+
+    <h1>CONTACT US!</h1>
+    <p>You will have great time with us</p>
+    
+    <form id="contact-form" method="POST" action="/contact">
+        <label for="who">Who do you want to contact ?</label>
+        <input type="text" name="who" value="<%= qs.person  %>">
+
+        <label for="departement">Who do you want to Which departement ?</label>
+        <input type="text" name="departement" value="<%= qs.dep  %>">
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" />
+        <button>submit</button>
+
+
+    </form>
+</body>
+</html>

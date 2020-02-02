@@ -3,17 +3,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
-        body{background:skyblue; font-family: verdana; color: #fff; padding: 30px;}
-        h1{font-size: 48px; text-transform: uppercase; letter-spacing: 2px;text-align: center;}
-        p{font-size: 16px; text-align: center;}
-    </style>
+    <link rel="stylesheet" href="/assets/styles.css", type="text/css">
     <title>Myapp</title>
 </head>
 <body>
+    <%- include ('partials/nav') %>
+
     <h1>Profile name with express render method!</h1>
     <p> welcome to the profile of <%= person%> </p>
     <p><strong>Age :</strong><%= data.age%></p>
     <p><strong>Job :</strong><%= data.job%></p>
+    <h2>Hobbies :</h2>
+    <ul>
+        <% data.hobbies.forEach(function(item){ %>    <!-- this is how we use if/else control flow JS in EJS file LOOK CLOSELY -->
+            <li><%= item %> </li>
+
+       <%  })  %>
+    </ul>
 </body>
 </html>
