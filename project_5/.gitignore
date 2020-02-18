@@ -2,3 +2,4 @@ brazilial-ecommerce
 .idea
 .DS_Store
 conda_venv
+.vscode
