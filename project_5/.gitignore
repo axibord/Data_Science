@@ -4,3 +4,4 @@ brazillian-ecommerce
 .DS_Store
 conda_venv
 .ipynb_checkpoints
+data_cleaned.csv
