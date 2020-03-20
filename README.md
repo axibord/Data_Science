@@ -1,1 +1,1 @@
-# Data_Science
+# Data science projetcs (regression, classification, deep learning, embedding...)
